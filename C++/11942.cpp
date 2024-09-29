@@ -30,6 +30,5 @@ int main(){
             cout << "Ordered" << endl;
         }
     }
-    
     return 0;
 }
